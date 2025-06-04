@@ -33,6 +33,9 @@ A modern Android demo app showcasing how to implement Biometric Authentication (
 
 > No special permissions are required; the Biometric library handles all necessary checks.
 
+**Alternatively, download the APK directly:**
+- [Download APK](biometric-app-debug.apk) to run the app on your device without building from source.
+
 ---
 
 ## Features
